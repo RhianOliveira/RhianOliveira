@@ -1,4 +1,4 @@
-# Olá! Eu sou o Rod-05 👋
+# Olá! Eu sou o Rhian 👋
 
 Sou um estudante universitário apaixonado por tecnologia e programação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
 
