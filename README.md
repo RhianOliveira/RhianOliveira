@@ -29,6 +29,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 - [Estrutura de Dados em Java](https://github.com/Rod-05/estrutura-de-dados-java): Implementações de diversas estruturas de dados em Java.
 - [Projetos em Python](https://github.com/Rod-05/projetos-em-python): Coleção de projetos desenvolvidos em Python para diferentes finalidades.
 - [Curso Web Coder](https://github.com/Rod-05/curso-web-coder): Material e exercícios do curso de desenvolvimento web.
+- [Projetos de Banco de Dados - FATEC São Caetano do Sul](https://github.com/Rod-05/projetos-de-banco-de-dados-fatec): Repositório com os principais trabalhos da disciplina de Banco de Dados (modelagem conceitual e lógica, DDL, normalização e scripts de ETL em Python   para SQLite) ministrada na FATEC São Caetano do Sul — contém o DER, dicionário de dados, scripts SQL e scripts de importação/ETL.
 
 ## Estatísticas do GitHub
 
