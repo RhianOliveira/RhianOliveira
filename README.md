@@ -17,9 +17,9 @@ Sou um estudante universitário apaixonado por tecnologia e programação. Atual
 
 ## Habilidades
 
-- 💻 Linguagens: Python, Java, VBA, JavaScript, HTML, CSS, React.
-- 🛠️ Ferramentas e Tecnologias: [ferramentas e tecnologias que você utiliza].
-- 📚 Frameworks e Bibliotecas: [frameworks e bibliotecas que você conhece].
+- 💻 Linguagens: Python, Java, JavaScript, HTML, CSS.
+- 🛠️ Ferramentas e Tecnologias: MySQL, MongoDB, Git, VBA, Power BI,
+- 📚 Frameworks e Bibliotecas: Pandas, NumPy, React.
 - 🌐 Estudo de Idiomas: Inglês.
 
 ## Projetos
