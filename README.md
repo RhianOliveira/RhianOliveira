@@ -27,8 +27,8 @@ Sou um estudante universitário apaixonado por tecnologia e programação. Atual
 Aqui estão alguns dos meus projetos mais recentes:
 
 - [Estrutura de Dados em Java](https://github.com/Rod-05/estrutura-de-dados-java): Implementações de diversas estruturas de dados em Java.
-- [Projetos em Python](https://github.com/Rod-05/projetos-em-python): Coleção de projetos desenvolvidos em Python para diferentes finalidades.
-- [Curso Web Coder](https://github.com/Rod-05/curso-web-coder): Material e exercícios do curso de desenvolvimento web.
+- [Projeto de Cadastro e CRUD de Produtos (Python, Tkinter & SQLite)](https://github.com/RhianOliveira/cadastro-de-produtos-gui): Aplicação desktop com interface gráfica desenvolvida em Python (Tkinter) para gerenciamento de usuários e um CRUD de produtos com banco de dados SQLite. Conta com sistema de login, cadastro, listagem, edição, exclusão e busca de produtos, tudo integrado a um banco local.
+- [Sistema de Cadastro de Usuários (CRUD) - React.js](https://github.com/RhianOliveira/CRUD-usuarios): Sistema eficiente e intuitivo para gerenciamento de usuários, permitindo criar, visualizar, atualizar e excluir registros, com interface construída em React.js, navegação por React Router, estilização com styled-components e integração de ícones Font Awesome.
 - [Projetos de Banco de Dados - FATEC São Caetano do Sul](https://github.com/Rod-05/projetos-de-banco-de-dados-fatec): Repositório com os principais trabalhos da disciplina de Banco de Dados (modelagem conceitual e lógica, DDL, normalização e scripts de ETL em Python   para SQLite) ministrada na FATEC São Caetano do Sul — contém o DER, dicionário de dados, scripts SQL e scripts de importação/ETL.
 
 ## Estatísticas do GitHub
