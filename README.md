@@ -5,8 +5,8 @@ Sou um estudante universitário apaixonado por tecnologia e programação. Atual
 ## Sobre Mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC São Caetano do Sul.
-- 🌱 Estudando e aperfeiçoando minhas habilidades em Python, Java, VBA, JavaScript, HTML, CSS, React, e Vue.
-- 💡 Interessado em desenvolvimento web, ciência de dados e automação.
+- 🌱 Estudando e aperfeiçoando minhas habilidades em Python, Java, VBA, JavaScript, HTML, CSS, React, e SQL.
+- 💡 Interessado em desenvolvimento web, ciência e análise de dados.
 - 📫 Como me encontrar: [rhian2005dantas@gmail.com](mailto:rhian2005dantas@gmail.com).
 
 ## Conecte-se Comigo
